@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:871
+#EXTINF:10.0,
+https://streaming.useetv.com/joss/24/bwfopench1/chunklist_w1805994123_b1044100_sleng_871.ts
+#EXTINF:10.0,
+https://streaming.useetv.com/joss/24/bwfopench1/chunklist_w1805994123_b1044100_sleng_872.ts
+#EXTINF:10.0,
+https://streaming.useetv.com/joss/24/bwfopench1/chunklist_w1805994123_b1044100_sleng_873.ts
