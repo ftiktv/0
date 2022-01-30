@@ -12,6 +12,14 @@ https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
 http://175.41.151.141/m3u8/vid_Indosiar.m3u8
 
 
+#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="http://185.238.0.145:1313/uploads/", INDONESIA
+https://raw.githubusercontent.com/Mbehhh/bs1/main/bs2.m3u8
+
+
+#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="http://185.238.0.145:1313/uploads/", INDONESIA
+https://raw.githubusercontent.com/tvbolaonline98/dontol/main/Cintil11.m3u8
+
+
 #EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/indosiar.png", INDONESIA
 https://raw.githubusercontent.com/tvbolaonline98/dontol/main/Cintil11.m3u8
 
