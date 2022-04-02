@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://static.mncnow.id/images/channel/99cf87f4/d2c2.png" group-title="VIDIO",  MNCTV +
-http://begaltvku.site/vidprem/master-36.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
+https://lnk.ec/MNCTVplus?shareext.m3u8
