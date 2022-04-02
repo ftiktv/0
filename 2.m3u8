@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://static.mncnow.id/images/channel/ef3eed68/040d.png" group-title="VIDIO", GTV +
-http://begaltvku.site/vidprem/master-35.m3u8
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
+https://lnk.ec/GTVplus?shareext.m3u8
