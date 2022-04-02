@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/ydRJrj3WJ-ycS2KJw19CZn6XQkg=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png" tvg-id=".SHINTA" tvg-name"[CODAY] Metro TV _VIDIO" group-title="VIDIO",MetroTV_VIDIO
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=f1c1592588411002af340cbaedd6fc33446503011668def857b1c03bafabba51
